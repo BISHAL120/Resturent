@@ -1,0 +1,10 @@
+.footer{
+    margin-top: 60px;
+    height: 400px;
+    width: 100%;
+    background-color: #191919;
+}
+
+.footer-detail{
+    color: white;
+}

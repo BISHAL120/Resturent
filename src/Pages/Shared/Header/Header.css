@@ -1,0 +1,36 @@
+.main-container {
+    background: #ffe4e1;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.second-container {
+    height: 100px;
+    width: 80%;
+}
+
+.logo img {
+    height: 65px;
+    padding: 6px 20px;
+}
+
+.shopping-cart {
+    width: 30px;
+    margin-top: 4px;
+}
+
+.login-singup {
+    background: #ffe4e1;
+    border: none;
+    font-size: 22px;
+    font-weight: 500;
+    padding: 6px 20px;
+}
+
+.login-singup:hover {
+    background-color: #fa4769;
+    border-radius: 30px;
+
+}

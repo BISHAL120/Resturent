@@ -1,0 +1,30 @@
+.about {
+    margin-top: 60px;
+}
+
+.carts{
+    gap: 20px;
+}
+
+.cart:hover{
+    transform: translateY(-5px);
+    transition: all 0.3s;
+    box-shadow: 0px 10px 20px 3px rgba(71, 70, 67, 0.149);
+    border-radius: 15px;
+}
+
+.shef{
+    width: 25.5rem;
+}
+
+.icon{
+    width: 40px;
+}
+
+.detail{
+    text-align: center;
+}
+
+.detail h3, p {
+    margin-top: 10px;
+}

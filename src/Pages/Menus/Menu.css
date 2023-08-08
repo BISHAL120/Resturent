@@ -1,0 +1,13 @@
+.menus{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.menus a{
+    border: none;
+    background-color: #ffff;
+    font-size: 25px;
+}

@@ -1,0 +1,56 @@
+.banner img {
+    width: 100%;
+}
+
+.banner {
+    position: relative;
+}
+
+.hero-title {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+}
+
+.hero-title h1 {
+    font-size: 70px;
+}
+
+.search-field {
+    text-align: center;
+    margin-top: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-title input {
+    height: 55px;
+    width: 45rem;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    font-size: 20px;
+    border: none;
+    text-align: center;
+}
+
+.hero-title button {
+    height: 55px;
+    width: 130px;
+    border: none;
+    background-color: #fa4769;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    
+}
+
+.hero-title button:hover{
+    background-color: #f91944;
+}
+
+.input:active{
+    border: none;
+}
